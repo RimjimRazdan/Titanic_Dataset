@@ -13,15 +13,14 @@ Python
 
 ## About dataset features:
 
-Variable_Name	  Description
-Survived	      Survived (1) or died (0)
-Pclass		      Passenger’s class
-Name		        Passenger’s name
-Sex		          Passenger’s sex
-Age		          Passenger’s age
-SibSp		        Number of siblings/spouses aboard
-Parch		        Number of parents/children aboard
-Ticket		      Ticket number
-Fare		        Fare
-Cabin		        Cabin
-Embarked	      Port of embarkation
+1. Survived: Survived (1) or died (0)
+2. Pclass: Passenger’s class
+3. Name: Passenger’s name
+4. Sex: Passenger’s sex
+5. Age: Passenger’s age
+6. SibSp: Number of siblings/spouses aboard
+7. Parch: Number of parents/children aboard
+8. Ticket: Ticket number
+9. Fare: Fare
+10. Cabin: Cabin
+11. Embarked: Port of embarkation
